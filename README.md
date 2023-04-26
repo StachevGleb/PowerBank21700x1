@@ -4,7 +4,7 @@ Small Power Bank 4000 Mah .stl files, link for purchase and explanation for crea
 
 **1.** Printed parts:
  
-**Main bottom part powerBank21700x1.**
+-*Main bottom part powerBank21700x1.*
 
                      ---First lid version---
                      
@@ -26,21 +26,16 @@ Small Power Bank 4000 Mah .stl files, link for purchase and explanation for crea
  
   
 
-*-  bracketInsidePartPowerBank21700.*
-
-*-  buttonPowerBank21700.*
-
 
 **2.** 21700 batteries 1 pcs (shorturl.at/jL146).
 
-**3.** USB Power Bank Charging Module (two variants of this module).
-*-   .*
-
-*-   .*
-
+**3.** USB Power Bank Charging Module (two variants of this module upper in Printed parts case you have links).
+ 
 **4.** Wire 22 awg ≈ 20cm. 
 
-**5.** Screws M1.1 х 3mm - 3pcs.
+**5.** Screws M1.4 х 2.4mm - 3pcs (https://a.aliexpress.com/_msZW8xi).
+
+**5.** Nuts M1.4 - 3pcs (https://a.aliexpress.com/_msZW8xi).
 
 **7.** Electrical isolation tape.
 
