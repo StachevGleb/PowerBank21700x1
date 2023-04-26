@@ -4,7 +4,9 @@ Small Power Bank 4000 Mah .stl files and explanation for creation
 
 **1.** Printed parts:
  
-*-  powerBank21700x1.*
+*Main bottom part powerBank21700x1.*
+
+
 
  *First lidPowerBank21700x1.stl*
  
