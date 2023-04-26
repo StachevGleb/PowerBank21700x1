@@ -8,19 +8,19 @@ Small Power Bank 4000 Mah .stl files, link for purchase and explanation for crea
 
                      ---First lid version---
                      
- -*First lidPowerBank21700x1.stl*
+ -*First lidPowerBank21700x1*
  
-  -*ledForFirstLid.stl (Seems to be printed with transparent filament to make visible your leds light.)*
+  -*ledForFirstLid (Seems to be printed with transparent filament to make visible your leds light.)*
   
    -*USB 5V 2A Boost Module (https://a.aliexpress.com/_msZW8xi).*
   
                      ---OR Second lid version---
   
- -*Second lidPowerBank21700x1.stl*
+ -*Second lidPowerBank21700x1*
  
-  -*ledForSecondLid.stl (Seems to be printed with transparent filament to make visible your leds light.)*
+  -*ledForSecondLid (Seems to be printed with transparent filament to make visible your leds light.)*
   
-   -*buttonForSecondLid.stl*
+   -*buttonForSecondLid*
    
    -*USB 5V 3.1A Boost Module (https://a.aliexpress.com/_mK6N380).*
  
@@ -37,7 +37,7 @@ Small Power Bank 4000 Mah .stl files, link for purchase and explanation for crea
 
 **6.** Nuts M1.4 - 3pcs (https://a.aliexpress.com/_msZW8xi).
 
-**7.** You can attach the clip if you wish (https://a.aliexpress.com/_mtHSg8G).
+**7.** You can attach the clip if you wish on part powerBank21700x1 you have path (https://a.aliexpress.com/_mtHSg8G).
 
 **8.** Electrical isolation tape.
 
