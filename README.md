@@ -42,6 +42,6 @@ Small Power Bank 4000 Mah .stl files, link for purchase and explanation for crea
 **8.** Electrical isolation tape.
 
 
-*More details and information you can find in videos below. Hope you will enjoy it !*
-https://youtu.be/wZHxqPgRYTs - short review video.
+*More details and information you can find in videos below. Hope you will enjoy it !*<br>
+https://youtu.be/wZHxqPgRYTs - short review video.<br>
 https://youtu.be/JlWXAeftZso - assembling tutorial.
