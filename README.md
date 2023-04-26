@@ -1,28 +1,26 @@
 # **Chunks, parts for creation PowerBank21700x1, DIY**
-Small Power Bank 4000 Mah .stl files and explanation for creation
+Small Power Bank 4000 Mah .stl files, link for purchase and explanation for creation
 .stl for 3d printed power bank and manual for assembling all parts together.
 
 **1.** Printed parts:
  
-*Main bottom part powerBank21700x1.*
-
-
-
- *First lidPowerBank21700x1.stl*
+**Main bottom part powerBank21700x1.**
+                     ---First lid version---
+ -*First lidPowerBank21700x1.stl*
  
-  *ledForFirstLid.stl*
+  -*ledForFirstLid.stl*
   
-   * USB 5V 2A Boost Module (https://a.aliexpress.com/_msZW8xi).*
+   -* USB 5V 2A Boost Module (https://a.aliexpress.com/_msZW8xi).*
   
-                           ---OR---
+                     ---OR Second lid version---
   
- *Second lidPowerBank21700x1.stl*
+ -*Second lidPowerBank21700x1.stl*
  
-  *ledForSecondLid.stl*
+  -*ledForSecondLid.stl*
   
-   *buttonForSecondLid.stl*
+   -*buttonForSecondLid.stl*
    
-    * USB 5V 3.1A Boost Module (https://a.aliexpress.com/_mK6N380).*
+    -* USB 5V 3.1A Boost Module (https://a.aliexpress.com/_mK6N380).*
  
   
 
