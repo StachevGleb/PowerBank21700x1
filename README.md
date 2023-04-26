@@ -27,7 +27,7 @@ Small Power Bank 4000 Mah .stl files, link for purchase and explanation for crea
   
 
 
-**2.** 21700 batteries 1 pcs (shorturl.at/jL146).
+**2.** 21700 batteries 1 pcs (https://a.aliexpress.com/_mtXwzKM).
 
 **3.** USB Power Bank Charging Module (two variants of this module upper in Printed parts case you have links).
  
