@@ -35,9 +35,11 @@ Small Power Bank 4000 Mah .stl files, link for purchase and explanation for crea
 
 **5.** Screws M1.4 х 2.4mm - 3pcs (https://a.aliexpress.com/_msZW8xi).
 
-**5.** Nuts M1.4 - 3pcs (https://a.aliexpress.com/_msZW8xi).
+**6.** Nuts M1.4 - 3pcs (https://a.aliexpress.com/_msZW8xi).
 
-**7.** Electrical isolation tape.
+**7.** You can attach the clip if you wish (https://a.aliexpress.com/_mtHSg8G).
+
+**8.** Electrical isolation tape.
 
 
 *More details and information you can find in videos below. Hope you will enjoy it !*
