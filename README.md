@@ -6,15 +6,15 @@ Small Power Bank 4000 Mah .stl files and explanation for creation
  
 *-  powerBank21700x1.*
 
- **First lidPowerBank21700x1.stl*
- **ledForFirstLid.stl*
-  * USB 5V 2A Boost Module (https://a.aliexpress.com/_msZW8xi).
+ *First lidPowerBank21700x1.stl*
+ *ledForFirstLid.stl*
+   * USB 5V 2A Boost Module (https://a.aliexpress.com/_msZW8xi).
   
                            ---OR---
   
- **Second lidPowerBank21700x1.stl*
- **ledForSecondLid.stl*
- **buttonForSecondLid.stl*
+ *Second lidPowerBank21700x1.stl*
+ *ledForSecondLid.stl*
+ *buttonForSecondLid.stl*
   * USB 5V 3.1A Boost Module (https://a.aliexpress.com/_mK6N380).
  
   
