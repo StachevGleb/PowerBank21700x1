@@ -33,9 +33,9 @@ Small Power Bank 4000 Mah .stl files, link for purchase and explanation for crea
  
 **4.** Wire 22 awg ≈ 20cm. 
 
-**5.** Screws M1.4 х 2.4mm - 3pcs (https://a.aliexpress.com/_msZW8xi).
+**5.** Screws M1.4 х 2.4mm - 3pcs (https://a.aliexpress.com/_mqDXNXW).
 
-**6.** Nuts M1.4 - 3pcs (https://a.aliexpress.com/_msZW8xi).
+**6.** Nuts M1.4 - 3pcs (https://a.aliexpress.com/_mqDXNXW).
 
 **7.** You can attach the clip if you wish on part powerBank21700x1 you have path (https://a.aliexpress.com/_mtHSg8G).
 
