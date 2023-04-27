@@ -16,7 +16,7 @@ Small Power Bank 4000 Mah .stl files, link for purchase and explanation for crea
   
                      ---OR Second lid version---
   
- -*Second lidPowerBank21700x1*
+ -*Second lid2PowerBank21700x1*
  
   -*ledForSecondLid (Seems to be printed with transparent filament to make visible your leds light.)*
   
@@ -39,7 +39,8 @@ Small Power Bank 4000 Mah .stl files, link for purchase and explanation for crea
 
 **7.** You can attach the clip if you wish on part powerBank21700x1 you have path (https://a.aliexpress.com/_mtHSg8G).
 
-**8.** Electrical isolation tape.
+**8.** Electrical isolation tape or heat shrink, maybe, you'll need it. Glue for clip, screwdriver for small philips,
+soldering iron and wire, flux and most important patience !
 
 
 *More details and information you can find in videos below. Hope you will enjoy it !*<br>
