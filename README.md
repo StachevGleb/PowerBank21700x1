@@ -1,5 +1,5 @@
 # **Chunks, parts for creation PowerBank21700x1, DIY**
-Small Power Bank 4000 Mah .stl files, link for purchase and explanation for creation
+Small Power Bank 4000 mAh .stl files, link for purchase and explanation for creation
 .stl for 3d printed power bank and manual for assembling all parts together.
 
 **1.** Printed parts (My advice is to use PET-G when printing, better flexibility):
